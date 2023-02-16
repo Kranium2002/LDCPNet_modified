@@ -2,6 +2,6 @@
 class: img_dataset
 name: lcdp_data.test
 input:
-  - /content/LCDPNet/test-input/*
+  - ./test-input/*
 GT:
-  - /content/LCDPNet/test-gt/*
+  - ./test-gt/*

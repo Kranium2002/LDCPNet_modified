@@ -2,6 +2,6 @@
 class: img_dataset
 name: lcdp_data.train
 input:
-  - /content/LCDPNet/input/*
+  - ./input/*
 GT:
-  - /content/LCDPNet/gt/*
+  - ./gt/*
